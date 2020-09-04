@@ -6,7 +6,7 @@
 > Widget adalah sebuah “perwakilan” dari aplikasi yang memungkinkan pengguna untuk dapat menggunakan fitur dari aplikasi yang diwakilkan tersebut secara langsung tanpa harus membuka aplikasi “sesungguhnya”. Biasanya widget terletak pada home screen atau tampilan awal layar perangkat Android anda.ng berjalan dengan dinamis. Node.js dibuat berdasarkan runtime Javascript, dan dapat dijalankan oleh berbagai  macam sistem operasi. Node.js pun memiliki banyak pustaka HTTP yang dapat membuat menjalankan server tanpa program server web seperti Apache, dan lain-lain.
 
 #
-## REPOSITORYES INI DARI UDACITY
+## REPOSITORIES INI DARI UDACITY
 ### link berikut
 - [x] Buka Situs Udacity di sini  [Klik Disini ](https://classroom.udacity.com/courses/ud855/lessons/f133dd92-8e3c-40b9-9d9d-545498638459/concepts/98627458-72ac-45a0-94ff-bca60428ccfc).
 - [x] Ikuti video tutorialnya dan penjelasannya
