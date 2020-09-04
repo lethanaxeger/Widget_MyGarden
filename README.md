@@ -25,7 +25,7 @@
 > Cara menembahkanya tekan layar sekitar 5detik kemudian pilih opsi widget dan cari app mygarden
 > 
 > 
-![Screenshot3](screenshots/widget2.jpeg)
+![Screenshot3](screenshots/jika ditekan.jpeg)
 ## Screenshots 
 > Tampilan dari fitur detail tanaman terdapat umur tanaman dan water meter 
 > 
