@@ -9,7 +9,7 @@
 ## REPOSITORYES INI DARI UDACITY
 ### link berikut
 - [x] Buka Situs Udacity di sini  [Klik Disini ](https://classroom.udacity.com/courses/ud855/lessons/f133dd92-8e3c-40b9-9d9d-545498638459/concepts/98627458-72ac-45a0-94ff-bca60428ccfc).
-- [x] Ikuti video tutorialnya
+- [x] Ikuti video tutorialnya dan penjelasannya
 
 ## Screenshots 
 > Ini adalah tampilan awal aplikasi kita dapat menambahkan tanaman yang nantinya akan kita siram di setiap waktunya
@@ -22,12 +22,12 @@
 > 
 ![Screenshot2](screenshots/widget1.jpeg) 
 ## Screenshots 
-> Cara menembahkanya tekan layar sekitar 5detik kemudian pilih opsi widget dan cari app mygarden
+> Cara menembahkanya tekan layar sekitar 5 detik kemudian pilih opsi widget dan cari app mygarden
 > 
 > 
 ![Screenshot3](screenshots/jika ditekan.jpeg)
 ## Screenshots 
-> Tampilan dari fitur detail tanaman terdapat umur tanaman dan water meter 
+> Tampilan dari fitur detail tanaman terdapat umur tanaman dan Water meter 
 > 
 > 
 ![Screenshot4](screenshots/potrait.jpeg) 
